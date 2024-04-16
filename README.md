@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arushi-2004&label=Profile%20views&color=0e75b6&style=flat" alt="arushi-2004" /> </p>
 
 - 🌱 I’m currently learning **python,django**
+- My portfolio link: **- 🌱 I’m currently learning **python,django**
 
 - 💬 Ask me about **C++,Computer Graphics**
 
